@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Z+👋;Web+Developer;Laravel+%7C+React+%7C+Next.js;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&size=40&center=true&width=435&lines=Hi%2C+I'm+Zuhdi+;Web+Developer;Laravel+%7C+React+%7C+Next.js;Always+Learning+" />
 </p>
 
 ## Hi there 👋
@@ -24,24 +24,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfzhdi&theme=github_dark
+" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAMEKAMU&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rfzhdi" />
 </p>
-
-<!--
-**rfzhdi/rfzhdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
