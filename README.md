@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&size=40&center=true&width=600&lines=years+ahead+but+way+behind%2C;I'm+on+1%2C+2%2C+3%2C+4%2C+5;no+half-truths%2C+just+naked+minds;caught+between+space+and+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geo&pause=1000&size=40&center=true&width=600&lines=years+ahead+but+way+behind;I'm+on+1%2C+2%2C+3%2C+4%2C+5;no+half-truths%2C+just+naked+minds;caught+between+space+and+time" />
 </p>
 
 ## Hello strangers! ✌🏻
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning [**Flutter**](https://flutter.dev/)
 
 ### 🚀 Skills
